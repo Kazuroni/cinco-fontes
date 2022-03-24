@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Inter&family=Major+Mono+Display&family=Press+Start+2P&family=Yellowtail&display=swap');
+
+body {
+
+background-color: darkblue;
+color: rebeccapurple;
+font-size: 48px; 
+
+}
+
+h1 {
+
+color: crimson;
+font-size: 60px;
+text-align: center;
+}
+
+h2 {
+
+color: coral;
+font-size: 32px;
+text-align: center; 
+}
+
+.fonte-1 {
+
+    font-family: 'Cinzel', serif;
+}
+
+.fonte-2 {
+
+    font-family: 'Inter', sans-serif;
+ 
+}
+
+.fonte-3 {
+
+    font-family: 'Major Mono Display', monospace;
+
+}
+
+.fonte-4 {
+
+    font-family: 'Press Start 2P', cursive;
+
+}
+
+.fonte-5 {
+
+    font-family: 'Yellowtail', cursive;
+}
+
+p {
+
+    text-align: center;
+    font-size: 24px;
+}
